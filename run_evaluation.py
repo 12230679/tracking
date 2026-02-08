@@ -12,5 +12,5 @@ command = [
     '--USE_PARALLEL', 'False'
 ]
 
-print("📊 드디어 제대로 된 점수를 확인할 시간입니다! 잠시만 기다리세요...")
+
 subprocess.run(command, cwd=trackeval_path)
