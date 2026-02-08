@@ -1,6 +1,7 @@
 # YOLOv8 DanceTrack Object Tracking
 
 ## Project Overview
+![실행 결과 화면](assets/result.png)
 이 프로젝트는 **YOLOv8** 모델을 사용하여 **DanceTrack 데이터셋**의 사람들을 실시간으로 탐지하고 추적(Tracking)하는 프로그램입니다.
 고해상도 영상을 모니터 화면에 맞게 리사이징(960x540)하여 출력하며 추적 결과는 텍스트 파일로 저장됩니다.
 
