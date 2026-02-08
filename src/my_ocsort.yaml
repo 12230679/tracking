@@ -1,0 +1,7 @@
+tracker_type: ocsort # 트래커 타입
+track_high_thresh: 0.1
+track_low_thresh: 0.1
+new_track_thresh: 0.1
+track_buffer: 60      # IDF1 상승을 위해 늘림
+match_thresh: 0.8     # 매칭 엄격도 조절
+fuse_score: True
